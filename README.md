@@ -8,5 +8,4 @@ Fancy seeing you here. If you're interested, checkout my portfolio @ https://se
 - 💬 Ask me about anything! or everything. there's a fine line in between, please avoid that
 - 📫 How to reach me: don't. unless...
 - 😄 Pronouns: idc. call me a seaweed
-- ⚡ Fun fact: The German for Work and Japanese for Part-time work are phonetically identical with different etymologies
--->
+- ⚡ Fun fact: Bungee Gum has the properties of both rubber and gum. 
