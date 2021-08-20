@@ -1,4 +1,5 @@
 ### Hi there 👋
+Fancy seeing you here. If you're interested, checkout my portfolui @ ...
 
 <!--
 **semibroiled/semibroiled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
