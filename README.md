@@ -9,6 +9,7 @@ Fancy seeing you here. If you're interested, checkout my portfolio @ https://se
 - 📫 How to reach me: don't. unless...
 - 😄 Pronouns: idc. call me a seaweed
 - ⚡ Fun fact: Bungee Gum has the properties of both rubber and gum. 
-
+<center>
 ### Currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fjc6ph6k7ve3dbaj2o5l29d2e&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=fjc6ph6k7ve3dbaj2o5l29d2e&redirect=true)
+</center>
